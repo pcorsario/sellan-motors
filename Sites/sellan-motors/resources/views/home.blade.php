@@ -13,7 +13,7 @@
                             {{ session('status') }}
                         </div>
                     @endif
-
+<h1>UN CAMBIO PARA GIT</h1>
                     {{ __('You are logged in!') }}
                 </div>
             </div>
